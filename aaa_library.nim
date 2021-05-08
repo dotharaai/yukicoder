@@ -1,1 +1,0 @@
-../abc_EF_training/aaa_library.nim
